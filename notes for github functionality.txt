@@ -1,0 +1,24 @@
+Github CLI:
+gh repo clone TeoPsycho/Github-project-test
+
+HTTPS:
+https://github.com/TeoPsycho/Github-project-test.git
+
+>git clone https://github.com/TeoPsycho/Github-project-test.git
+
+show untracked files:
+>git status 
+
+tracks file:
+>git add <filename>
+
+show changes to be commited:
+>git status
+
+commit files:
+>git commit -m 'first add of files'
+
+
+
+(LF replaced by CRLF)
+(old Github master branch was renamed main branch)
